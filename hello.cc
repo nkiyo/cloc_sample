@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 void fuction() {
-  printf("hoge\n");
+  printf("hage\n");
 }
 
 int main() {
