@@ -6,5 +6,4 @@ void fuction() {
 
 int main() {
   // comment
-  printf("hello world\n");
 }
